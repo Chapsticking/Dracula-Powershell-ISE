@@ -8,3 +8,4 @@ My attempt at making a Dracula format for the Powershell ISE.
 4. Select "Manage Themes"
 5. Go to where you saved the file and select the Dracula ISE V3.StorableColorTheme.ps1xml
 6. Apply the changes
+7. Enjoy Dracula
